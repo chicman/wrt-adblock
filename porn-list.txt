@@ -17,9 +17,25 @@
 
 
 127.0.0.1  localhost
+0.0.0.0 localhost
 
 # inherit from Tomato-list
 
+0.0.0.0 hpjav.tv
+0.0.0.0 video.eyny.com
+0.0.0.0 ggjav.com
+0.0.0.0 netflav.com
+0.0.0.0 258porn.com
+0.0.0.0 javdb.com
+0.0.0.0 javhdporn.net
+0.0.0.0 nen.ai
+0.0.0.0 javfull.net
+0.0.0.0 fbjav.com
+0.0.0.0 javhd.today
+0.0.0.0 javdock.net
+0.0.0.0 yegonghaose111.com
+0.0.0.0 javlibrary.com
+0.0.0.0 javuniform.com
 0.0.0.0 tktube.com
 0.0.0.0 javmost.com
 0.0.0.0 livejasmin.com
