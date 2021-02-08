@@ -1,9 +1,19 @@
 # UPDATED: 1-28-2021
 # a good list for clean network
-# under OpenWRT, unzip /etc/adblock/adblock.sources.gz
+#
+#
+# under OpenWRT, ssh root@IP , unzip /etc/adblock/adblock.sources.gz
 # Edit /etc/adblock/adblock.sources
 # Paste as such:
-# 
+# "adaway": {
+#		"url": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+#		"rule": "/^127\\.0\\.0\\.1[[:space:]]+([[:alnum:]_-]{1,63}\\.)+[[:alpha:]]+([[:space:]]|$)/{print tolower($2)}",
+#		"size": "S",
+#		"focus": "mobile",
+#		"descurl": "https://github.com/AdAway/adaway.github.io"
+#	},
+#
+# ref:https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md
 
 
 127.0.0.1  localhost
