@@ -25,7 +25,7 @@
 0.0.0.0 video.eyny.com
 0.0.0.0 ggjav.com
 0.0.0.0 netflav.com
-0.0.0.0 258porn.com
+||258porn.com^
 0.0.0.0 javdb.com
 0.0.0.0 javhdporn.net
 0.0.0.0 nen.ai
