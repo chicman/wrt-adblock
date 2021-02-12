@@ -13,8 +13,12 @@
 
 127.0.0.1  localhost
 
+# REGEXP 
+/(porn)+/
+/(jav)+/
+/(xxx)+/
 
-# inherit from Tomato-list
+# fork from Tomato-list
 
 ||hpjav.tv^
 ||video.eyny.com^
