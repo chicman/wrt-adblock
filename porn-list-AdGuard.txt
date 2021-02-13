@@ -20,6 +20,8 @@
 
 # fork from Tomato-list
 
+||swag.us^
+||swag.live^
 ||hpjav.tv^
 ||video.eyny.com^
 ||ggjav.com^
