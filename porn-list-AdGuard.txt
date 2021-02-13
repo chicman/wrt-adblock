@@ -10,13 +10,12 @@
 #
 #
 
-
-127.0.0.1  localhost
-
 # REGEXP 
 /(porn)+/
 /(jav)+/
 /(xxx)+/
+/(sex)+/
+
 
 # fork from Tomato-list
 
