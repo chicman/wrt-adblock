@@ -19,6 +19,7 @@
 
 # fork from Tomato-list
 
+||jable.tv^
 ||swag.us^
 ||swag.live^
 ||hpjav.tv^
