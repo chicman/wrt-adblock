@@ -17,7 +17,6 @@
 /(sex)+/
 /(gay)+/
 /(adult)+/
-/(wnacg)+/
 /(fc2)+/
 
 # fork from Tomato-list
