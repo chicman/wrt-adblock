@@ -21,6 +21,8 @@
 
 # fork from Tomato-list
 
+||wnacg.org^
+||wnacg2.org^
 ||9zvip.com^
 ||avdbs.com^
 ||sddpoav.com^
