@@ -22,7 +22,8 @@
 # fork from Tomato-list
 
 ||wnacg.org^
-||wnacg2.org^
+||wnacg.com^
+||wnacg.top^
 ||9zvip.com^
 ||avdbs.com^
 ||sddpoav.com^
