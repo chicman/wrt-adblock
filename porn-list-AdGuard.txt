@@ -17,10 +17,10 @@
 /(sex)+/
 /(gay)+/
 /(adult)+/
-/(fc2)+/
 
 # fork from Tomato-list
 
+||fc2.com^
 ||wnacg.org^
 ||wnacg.com^
 ||wnacg.top^
