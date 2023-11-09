@@ -17,6 +17,7 @@
 /(sex)+/
 /(gay)+/
 /(adult)+/
+/(hentai)+/
 
 # fork from Tomato-list
 
