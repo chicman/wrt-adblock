@@ -36,6 +36,7 @@
 ||wnacg.org^
 ||wnacg.com^
 ||wnacg.top^
+||comicbox.xyz^
 ||manwa.me^
 ||9zvip.com^
 ||avdbs.com^
